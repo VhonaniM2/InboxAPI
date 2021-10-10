@@ -1,0 +1,105 @@
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\csc.exe
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\vbc.exe
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\TokenAuthenticationWebAPI.dll.config
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\TokenAuthenticationWebAPI.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\TokenAuthenticationWebAPI.pdb
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Newtonsoft.Json.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Owin.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Helpers.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Mvc.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Razor.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Razor.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Newtonsoft.Json.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Razor.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Razor.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Helpers.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Mvc.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\obj\Debug\TokenAuthenticationWebAPI.dll
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\obj\Debug\TokenAuthenticationWebAPI.pdb
+C:\Souce Code\Own\TokenAuthenticationebAPI\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\obj\Debug\TokenAuthenticationWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\csc.exe
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\vbc.exe
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\TokenAuthenticationWebAPI.dll.config
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\TokenAuthenticationWebAPI.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\TokenAuthenticationWebAPI.pdb
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Owin.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Helpers.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Mvc.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Razor.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Razor.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Helpers.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Mvc.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\obj\Debug\TokenAuthenticationWebAPI.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\obj\Debug\TokenAuthenticationWebAPI.pdb
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\System.Web.Cors.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\EntityFramework.dll
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\bin\EntityFramework.xml
+C:\Users\VhonaniM\Documents\Coding\_MyProjects\TokenAuthenticationWebAPI\TokenAuthenticationWebAPI\obj\Debug\TokenAuthenticationWebAPI.csprojResolveAssemblyReference.cache

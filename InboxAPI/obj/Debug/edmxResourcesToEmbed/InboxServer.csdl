@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmailServerDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EmailServerDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="InboxMessages" EntityType="EmailServerDBModel.InboxMessage" />
+    <EntitySet Name="Labels" EntityType="EmailServerDBModel.Label" />
+    <EntitySet Name="UserProfiles" EntityType="EmailServerDBModel.UserProfile" />
+    <AssociationSet Name="FK_UserID_UserProfile" Association="EmailServerDBModel.FK_UserID_UserProfile">
+      <End Role="UserProfile" EntitySet="UserProfiles" />
+      <End Role="InboxMessage" EntitySet="InboxMessages" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="InboxMessage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="Message" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FromAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ToAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Deleted" Type="Boolean" Nullable="false" />
+    <Property Name="LabelId" Type="Int32" />
+    <Property Name="DateReceived" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="DateDeleted" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="UserProfile" Relationship="EmailServerDBModel.FK_UserID_UserProfile" FromRole="InboxMessage" ToRole="UserProfile" />
+  </EntityType>
+  <EntityType Name="Label">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="UserProfile">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Guid" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Role" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FullNames" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="InboxMessages" Relationship="EmailServerDBModel.FK_UserID_UserProfile" FromRole="UserProfile" ToRole="InboxMessage" />
+  </EntityType>
+  <Association Name="FK_UserID_UserProfile">
+    <End Type="EmailServerDBModel.UserProfile" Role="UserProfile" Multiplicity="1" />
+    <End Type="EmailServerDBModel.InboxMessage" Role="InboxMessage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserProfile">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="InboxMessage">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
