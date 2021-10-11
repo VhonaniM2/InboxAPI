@@ -141,7 +141,7 @@ all Endpoints return the same reponse which is custom. below is an examplee from
 <!-- CONTACT -->
 ## Contact
 
-Vhonani Makhokha - [@your_twitter](https://twitter.com/your_username) - vhonani.tgb@gmail.com
+Vhonani Makhokha - 0814999587 - vhonani.tgb@gmail.com
 
 Project Link: [https://github.com/VhonaniM2/InboxAPI](https://github.com/your_username/repo_name)
 
